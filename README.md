@@ -5,5 +5,5 @@ Sentence handler on Angular
 2.Start: ng serve
 3.Open Chrome http://localhost:4200/
 
-![notice](https://github.com/Feliciter/sentencehandler/notice.png)
+![notice](https://github.com/Feliciter/sentencehandler/blob/master/notice.png)
 
