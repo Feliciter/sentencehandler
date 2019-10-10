@@ -7,5 +7,9 @@ Sentence handler on Angular
 - Start: ng serve
 - Open Chrome http://localhost:4200/
 
+[DEMO](http://sentencehandler.kissr.com/) 
+
 ![notice](https://github.com/Feliciter/sentencehandler/blob/master/notice.png)
+
+
 
