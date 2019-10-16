@@ -31,7 +31,7 @@ export class DataService {
 
       this.xmlArray.push("</sentence>");
     }
-    // return this.xmlContent = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' + '<text>' + this.xmlArray.join('') + '</text>';
+  
     return ('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'+"<text>"+this.xmlArray.join("") +"</text>" );
   }
 
