@@ -18,7 +18,7 @@ export class DataService {
 
   //  make XML
   getDataXML() {
-    this.xmlArray.length = 0;
+    this.xmlArray = [];
     for (const sentence of Object.keys(this.workarr)) {
       this.xmlArray.push("<sentence>");
 
