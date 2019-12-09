@@ -39,7 +39,7 @@ export class DataService {
 
   //  make csv
   getDataCSV() {
-    this.lineArray.length = 0;
+    this.lineArray=[];
 
     Object.keys(this.workarr).forEach(el => {
       const line = this.workarr[el].join(",");
